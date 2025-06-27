@@ -32,6 +32,6 @@ The analysis provided actionable insights for Uber’s NYC operations:
 - Allocate more drivers to Manhattan, Brooklyn, and Queens, especially during evening hours (5–10 PM) and weekends. Or make driver compensation slightly highly for these three boroughs. 
 - Plan for slight demand spikes on holidays for the availability of vehicles, particularly in Manhattan, possibly due to tourism.
 - Weather has a minor impact, but prepare for reduced demand during heavy rain or snow. Also, give drivers more incentives during low precipitation periods to maintain service to the population.
-- 
+  
 These insights enable Uber to allocate drivers efficiently, adjust pricing dynamically, and plan for seasonal and weather-related demand fluctuations, improving operational efficiency and customer satisfaction.
 
