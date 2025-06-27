@@ -18,11 +18,15 @@ o	Summarized insights, identifying high-demand boroughs (Manhattan, Brooklyn, Qu
 
 #### Result: 
 The analysis provided actionable insights for Uber’s NYC operations:
-•	Borough Optimization: Manhattan drives the majority of pickups, followed by Brooklyn and Queens. Focus driver allocation in these areas to maximize revenue. EWR’s zero pickups suggest data issues or limited Uber presence in 2015, warranting further investigation.
-•	Time-Based Scheduling: Evening hours (5–10 PM) and weekends show higher demand. Increase driver availability during these periods and consider surge pricing to capitalize on peak times.
-•	Holiday Strategy: Holidays, especially in Manhattan, boost pickups. Plan for increased demand with targeted promotions or driver incentives during holidays.
-•	Weather Planning: Warmer temperatures slightly increase pickups, while precipitation and snow reduce demand. Adjust driver schedules during adverse weather to optimize costs.
-•	Data Quality: Handling missing borough values preserved 10.46% of the data, ensuring robust insights. The EWR anomaly highlights the need for data validation to avoid misleading conclusions.
+•	**Borough Optimization:** Manhattan drives the majority of pickups, followed by Brooklyn and Queens. Focus driver allocation in these areas to maximize revenue. EWR’s zero pickups suggest data issues or limited Uber presence in 2015, warranting further investigation.
+
+•	**Time-Based Scheduling:** Evening hours (5–10 PM) and weekends show higher demand. Increase driver availability during these periods and consider surge pricing to capitalize on peak times.
+
+•	**Holiday Strategy:** Holidays, especially in Manhattan, boost pickups. Plan for increased demand with targeted promotions or driver incentives during holidays.
+
+•	**Weather Planning:** Warmer temperatures slightly increase pickups, while precipitation and snow reduce demand. Adjust driver schedules during adverse weather to optimize costs.
+
+•	**Data Quality:** Handling missing borough values preserved 10.46% of the data, ensuring robust insights. The EWR anomaly highlights the need for data validation to avoid misleading conclusions.
+
 These insights enable Uber to allocate drivers efficiently, adjust pricing dynamically, and plan for seasonal and weather-related demand fluctuations, improving operational efficiency and customer satisfaction.
 
-![image](https://github.com/user-attachments/assets/a08a96f9-2297-4f13-94e0-58a61c5e053d)
