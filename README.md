@@ -18,15 +18,20 @@ o	Summarized insights, identifying high-demand boroughs (Manhattan, Brooklyn, Qu
 
 #### Result: 
 The analysis provided actionable insights for Uber’s NYC operations:
-•	**Borough Optimization:** Manhattan drives the majority of pickups, followed by Brooklyn and Queens. Focus driver allocation in these areas to maximize revenue. EWR’s zero pickups suggest data issues or limited Uber presence in 2015, warranting further investigation.
+- **Borough:** Manhattan drives most pickups, followed by Brooklyn and Queens.
+  
+- **Time:** Evening and weekend peaks suggest commuter and leisure demand.
+  
+- **Holiday:** Slight increase in demand, likely tourism-driven.
+  
+- **Weather:** Weak effects on pickups, with temperature having slightly positive effect on demands, precipitation/snow having a slightly negative effect on demand.
+  
+- **EWR:** Zero pickups are surprising for an airport, possibly due to data issues or Uber’s limited airport service in 2015.
 
-•	**Time-Based Scheduling:** Evening hours (5–10 PM) and weekends show higher demand. Increase driver availability during these periods and consider surge pricing to capitalize on peak times.
-
-•	**Holiday Strategy:** Holidays, especially in Manhattan, boost pickups. Plan for increased demand with targeted promotions or driver incentives during holidays.
-
-•	**Weather Planning:** Warmer temperatures slightly increase pickups, while precipitation and snow reduce demand. Adjust driver schedules during adverse weather to optimize costs.
-
-•	**Data Quality:** Handling missing borough values preserved 10.46% of the data, ensuring robust insights. The EWR anomaly highlights the need for data validation to avoid misleading conclusions.
-
+**Business Insights:**
+- Allocate more drivers to Manhattan, Brooklyn, and Queens, especially during evening hours (5–10 PM) and weekends. Or make driver compensation slightly highly for these three boroughs. 
+- Plan for slight demand spikes on holidays for the availability of vehicles, particularly in Manhattan, possibly due to tourism.
+- Weather has a minor impact, but prepare for reduced demand during heavy rain or snow. Also, give drivers more incentives during low precipitation periods to maintain service to the population.
+- 
 These insights enable Uber to allocate drivers efficiently, adjust pricing dynamically, and plan for seasonal and weather-related demand fluctuations, improving operational efficiency and customer satisfaction.
 
