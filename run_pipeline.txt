@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# End-to-end pipeline to analyze Uber pickups data
+
+# Step 1: Data Import
+echo "Running data import..."
+python3 data_import.py
+
+# Step 2: Data Preprocessing
+echo "Running data preprocessing..."
+python3 data_preprocessing.py
+
+# Step 3: Feature Engineering
+echo "Running feature engineering..."
+python3 feature_engineering.py
+
+# Step 4: Exploratory Data Analysis
+echo "Running EDA..."
+python3 eda.py
+
+echo "Pipeline completed. Check 'outputs/' for results."
