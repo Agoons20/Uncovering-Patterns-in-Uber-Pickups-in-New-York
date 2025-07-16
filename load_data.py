@@ -1,6 +1,8 @@
 import pandas as pd
 import os
 
+# import dataset and check data from some basic facts 
+
 # Print working directory
 print("Working Directory:", os.getcwd())
 
