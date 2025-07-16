@@ -4,7 +4,7 @@ import seaborn as sns
 import numpy as np
 
 # Set plotting style
-plt.style.use('seaborn-v0_8')  # Updated to avoid deprecation warning
+plt.style.use('seaborn-v0_8')  # Updated package
 sns.set_palette("deep")
 
 # Load the engineered dataset
