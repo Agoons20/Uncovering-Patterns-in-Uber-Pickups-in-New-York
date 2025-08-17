@@ -1,7 +1,6 @@
 import pandas as pd
 import os
 
-# B sure to import numpy if you'd like to do further data exploration 
 # Create outputs directory if it doesn't exist
 if not os.path.exists('outputs'):
     os.makedirs('outputs')
